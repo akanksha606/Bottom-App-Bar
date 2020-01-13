@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/botton_app_lib"
+        android:title="Library"
+        android:icon="@drawable/ic_video_library_black_24dp"
+        app:showAsAction="ifRoom"
+        />
+    <item android:id="@+id/bottom_item2"
+        android:title="More" />
+    <item android:id="@+id/bottom_item3"
+        android:title="LOG OUT" />
+
+
+</menu>
